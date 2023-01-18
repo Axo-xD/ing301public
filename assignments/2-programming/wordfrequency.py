@@ -59,6 +59,7 @@ def compute_frequency(words):
     F. eks. Inn ["hun", "hen", "han", "hen"], Ut: {"hen": 2, "hun": 1, "han": 1}
     """
     dic = dict.fromkeys(words)
+    # Bruker dictionarie for å løse denne
 
     return dic  # TODO: Du må erstatte denne linjen
 

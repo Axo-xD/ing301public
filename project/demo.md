@@ -14,7 +14,7 @@ Du finner en plantegning av dette huset nedenfor:
 ## Enheter
 
 På etasjeplanen ble også smarte enheter tegnet inn.
-Sensorer er tegnet i oransje og sensorer er tegnet i grønn.
+Aktuatorer er tegnet i oransje og sensorer er tegnet i grønn.
 Tabellen nedenfor gir detaljer hva type sensor/aktuator skjuler seg bak de enkelte tallene.
 
 | Nr. | Typ                 | Produsent                  | Produkt Navn        | Serienummer         |
@@ -25,7 +25,7 @@ Tabellen nedenfor gir detaljer hva type sensor/aktuator skjuler seg bak de enkel
 | 4   | Smart Lys           | Fritsch Group              | Alphazap 2          | 6a36c71d-4f48-4eb4  |
 | 5   | Smart Lys           | Larkin-Nitzsche            | Quo Lux             | d01130c9-a368-42c6  |
 | 6   | Billader            | Jast, Hansen and Halvorson | Charge It 9000      | 0cae4f01-4ad9-47aa  |
-| 7 | Paneloven           | Hauck-DuBuque              | Voyatouch 42        | d16d84de-79f1-4f9a  |
+| 7 | Paneloven           | Hauck-DuBuque              | Voyatouch 42        | d1ef14d2-21ee-4f13  |
 | 8 | Temperatursensor    | Moen Inc                   | Prodder Ute 1.2     | e237beec-2675-4cb0  |
 | 9 | Smart Lys           | Fritsch Group              | Alphazap 2          | f4db4e54-cebe-428d  |
 | 10 | Smart Lys           | Larkin-Nitzsche            | Quo Vadis Lux       | 8d09aa92-fc58-4c6   |

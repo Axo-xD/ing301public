@@ -58,12 +58,14 @@ def compute_frequency(words):
 
     F. eks. Inn ["hun", "hen", "han", "hen"], Ut: {"hen": 2, "hun": 1, "han": 1}
     """
+    
     dict_word = {}
     for w in words:
         try:
             dict_word[w] = dict_word[w] + 1
         except: # Er ikke den beste måten å bruke exceptions på, men det virker :)
             dict_word[w] = 1
+
 
     return dict_word
 
